@@ -437,7 +437,7 @@ int main()
 		w = proverka_gomori(mass, massx, n, m, nebaz);
 		if (!w)
 		{
-			cout << "net otric elem" << endl;
+			cout << "net otric elementov" << endl;
 		}
 	}
 	cout << "end";
